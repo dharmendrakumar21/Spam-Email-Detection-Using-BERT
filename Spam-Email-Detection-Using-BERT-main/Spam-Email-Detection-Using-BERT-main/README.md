@@ -64,7 +64,8 @@ This project presents a **Large Language Model (LLM)-based solution** for detect
 ## 📬 Contact
 
 For questions or collaboration:  
-📧 **luckyjoytutika@gmail.com**
+📧 **Dharmendra21sde@gmail.com
+**
 
 ---
 
